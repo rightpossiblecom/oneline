@@ -8,8 +8,9 @@
 - `oneline-release.jks` - Android signing keystore
 - `key.properties` - Keystore credentials
 - `play_store_listing.txt` - Play Store metadata
-- `privacy_policy.md` - Privacy policy
-- `screenshots/` - App screenshots
+- `PRIVACY_POLICY.md` - Privacy policy
+- `screenshots/` - App screenshots (add before store submission)
+- `featured_graphic_oneline.png` - Play Store feature graphic 1024×500 (create before store submission)
 
 ### Signing Credentials
 

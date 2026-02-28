@@ -11,10 +11,11 @@ export function Hero() {
           OneLine helps you jot down ideas, reminders, and notes faster than ever.
         </p>
         <div className="mt-8">
-          <Link href="#">
-            <a className="inline-block rounded-md btn-primary px-8 py-3 text-base font-medium">
-              Get Started
-            </a>
+          <Link
+            href="#"
+            className="inline-block rounded-md btn-primary px-8 py-3 text-base font-medium"
+          >
+            Get Started
           </Link>
         </div>
       </div>
