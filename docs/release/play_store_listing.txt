@@ -1,0 +1,50 @@
+===== PLAY STORE LISTING =====
+
+APP NAME:
+OneLine
+
+SHORT DESCRIPTION (max 80 characters):
+Connect all dots in one continuous line without lifting your finger.
+
+FULL DESCRIPTION (max 4000 characters):
+
+OneLine is a minimalist puzzle game that challenges your problem-solving skills. Your goal is simple: connect all dots on the screen using a single continuous stroke without lifting your finger.
+
+KEY FEATURES:
+
+- Minimalist Design: Clean, distraction-free gameplay
+- 30+ Carefully Crafted Levels: Progressive difficulty from simple to challenging
+- Perfect Path Badge: Achieve a "Perfect" rating for clean solutions
+- Sound & Haptic Feedback: Toggle audio and vibration as preferred
+- Dark Mode Support: Play comfortably in any lighting
+- Local Progress Saving: Your progress is saved automatically
+- Privacy First: No data collection, no accounts required
+
+HOW TO PLAY:
+
+1. Look at the puzzle grid with dots scattered across the screen
+2. Touch and draw a continuous line
+3. Try to connect all dots without lifting your finger
+4. If you lift before completion, you fail the level
+5. Connect all dots in one pure stroke to advance
+
+DIFFICULTY PROGRESSION:
+
+Start with simple line patterns and work your way up to complex maze-like configurations. Each level tests your strategic thinking and hand coordination.
+
+WHO SHOULD PLAY:
+
+- Puzzle game enthusiasts
+- Players seeking a focused, meditative experience
+- Those who enjoy minimalist game design
+- Anyone looking for a challenging mental exercise
+
+PRIVACY:
+
+We do not collect any personal data. All your progress is stored locally on your device. Your privacy is our priority. See our privacy policy for details.
+
+SUPPORT:
+
+Found a bug or have suggestions? Contact us at support@oneline.app
+
+Enjoy the challenge!
